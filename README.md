@@ -3,8 +3,6 @@
 <!--
 **querldox5/querldox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Interactive 3d installation at Gallery of code Arts Festival 2019](https://github.com/querldox5/querldox5/blob/master/screenshot-www.youtube.com-2020.09.25-19_20_33.png)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Interactive 3d installation at Gallery of code Arts Festival 2019](https://github.com/querldox5/querldox5/blob/master/screenshot-www.youtube.com-2020.09.25-19_20_33.png)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
