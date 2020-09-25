@@ -1,5 +1,6 @@
 ### Hi there, I'm Oluwatosin Olubiyi 👋
-## I'm a backend and computer vision engineer. I'm very enthusiastic about the future of computer vision, and artificial Intelligence. I'm open to projects in area of machine learning, deep learning and computer vision. Do not hesitate to contact me if you need a contributor or collaborate for your project or research. Meanwhile visit my website olubiyiontheweb.com for more information about what I do.
+
+I'm a backend and computer vision engineer. I'm very enthusiastic about the future of computer vision, and artificial Intelligence. I'm open to projects in area of machine learning, deep learning and computer vision. Do not hesitate to contact me if you need a contributor or collaborate for your project or research. Meanwhile visit my website olubiyiontheweb.com for more information about what I do.
 
 <!--
 **querldox5/querldox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
