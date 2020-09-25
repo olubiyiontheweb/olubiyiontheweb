@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Interactive 3d installation at Gallery of code Arts Festival 2019](https://github.com/querldox5/querldox5/blob/master/screenshot-www.youtube.com-2020.09.25-19_20_33.png)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
+[![Interactive 3d installation at Gallery of code Arts Festival 2019](https://github.com/querldox5/querldox5/blob/master/youtube_video_preview.jpg)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
