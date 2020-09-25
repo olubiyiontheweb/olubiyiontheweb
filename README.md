@@ -3,7 +3,7 @@
 <!--
 **querldox5/querldox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Interactive 3d installation at Gallery of code Arts Festival 2019](https://res.cloudinary.com/marcomontalbano/image/upload/v1601058217/video_to_markdown/images/youtube--LcONdjmjq_w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
+[![Interactive 3d installation at Gallery of code Arts Festival 2019](https://github.com/querldox5/querldox5/blob/master/screenshot-www.youtube.com-2020.09.25-19_20_33.png)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
 
 Here are some ideas to get you started:
 
