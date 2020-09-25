@@ -3,6 +3,8 @@
 <!--
 **querldox5/querldox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
