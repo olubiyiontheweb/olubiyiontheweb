@@ -3,7 +3,7 @@
 <!--
 **querldox5/querldox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+<a href="https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG" title="Link Title"><img src="https://github.com/querldox5/querldox5/blob/master/screenshot-www.youtube.com-2020.09.25-19_20_33.png" alt="Alternate Text" /></a>
 
 Here are some ideas to get you started:
 
