@@ -2,7 +2,7 @@
 
 As you are already wondering what does he do? So here is a breakdown.
 
-I'm a backend and computer vision engineer. I love building interactive projects which explains my current interest in computer vision. in doing that I employ different techniques and platforms to reach my goal, depending on the target platform, web, desktop or mobile.
+I'm a backend and computer vision engineer. I love building interactive projects which explains my current interest in computer vision. In doing that I employ different techniques and platforms to reach my goal, depending on the target platform, web, desktop or mobile.
 
 I'm very enthusiastic about the future of computer vision, HCI and artificial Intelligence. I'm open to projects that engages machine learning techniqies for solving social or real world problems facing humans. Do not hesitate to contact me if you need a contributor or collaborator for your project or research. Meanwhile visit my website olubiyiontheweb.com for more information about what I do.
 
