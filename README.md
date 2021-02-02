@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Interactive 3d installation at Gallery of code Arts Festival 2019](https://github.com/olubiyiontheweb/olubiyiontheweb/blob/master/youtube_video_preview.jpg)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
 
-[![Shooting planes - Table top educational game for kids](https://github.com/olubiyiontheweb/olubiyiontheweb/blob/master/youtube_video_preview.jpg)](https://www.youtube.com/watch?v=HqUN2DlHSFw&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
+[![Shooting planes - Table top educational game for kids](https://img.youtube.com/vi/HqUN2DlHSFw/maxresdefault.jpg)](https://www.youtube.com/watch?v=HqUN2DlHSFw&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
