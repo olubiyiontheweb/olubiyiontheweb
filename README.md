@@ -4,7 +4,7 @@ As you are already wondering what does he do? So here is a breakdown.
 
 I'm a backend and computer vision engineer. I love building interactive projects which explains my current interest in computer vision. In doing that I employ different techniques and platforms to reach my goal, depending on the target platform, web, desktop or mobile.
 
-I'm very enthusiastic about the future of computer vision, HCI and games. I'm open to projects that engages machine learning techniqies for solving social or real world problems facing humans. Do not hesitate to contact me if you need a contributor or collaborator for your project or research. Meanwhile visit my website olubiyiontheweb.com for more information about what I do.
+I'm very enthusiastic about the future of computer vision, HCI. I'm open to projects that engages machine learning techniqies for solving social or real world problems facing humans. Do not hesitate to contact me if you need a contributor or collaborator for your project or research. Meanwhile visit my website olubiyiontheweb.com for more information about what I do.
 
 <!--
 **querldox5/querldox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Shooting planes - Table top educational game for kids](https://img.youtube.com/vi/HqUN2DlHSFw/maxresdefault.jpg)](https://www.youtube.com/watch?v=HqUN2DlHSFw&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
+
 -->
 
 [![Interactive 3d installation at Gallery of code Arts Festival 2019](https://github.com/olubiyiontheweb/olubiyiontheweb/blob/master/youtube_video_preview.jpg)](https://www.youtube.com/watch?v=LcONdjmjq_w&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
-
-[![Shooting planes - Table top educational game for kids](https://img.youtube.com/vi/HqUN2DlHSFw/maxresdefault.jpg)](https://www.youtube.com/watch?v=HqUN2DlHSFw&list=PLR3Rcrtmm4KHFph2JpSRLidimdVeUy8qG "Interactive 3d installation at Gallery of code Arts Festival 2019")
