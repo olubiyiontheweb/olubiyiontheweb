@@ -1,6 +1,6 @@
 ### Hi there, I'm Oluwatosin Olubiyi 👋
 
-I'm sure you're already wondering what I do? So here is a breakdown.
+I'm sure you're already wondering what I do. So here is a breakdown.
 
 I'm a software developer and computer vision engineer. I'm passionate about building quality applications for the web and mobile devices.
 
