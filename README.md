@@ -1,8 +1,8 @@
 ### Hi there, I'm Oluwatosin Olubiyi 👋
 
-I'm sure you're already wondering what I do. So here is a breakdown.
+I'm sure you're already wondering what I do. So here is a summary.
 
-I'm a software developer and computer vision engineer. I'm passionate about building quality applications for the web and mobile devices.
+I'm a software developer and computer vision engineer. I'm passionate about building quality applications for the web and mobile devices. Do well to checkout some of my pinned repositories.
 
 I'm also very enthusiastic about the future of computer vision, Virtual Reality, Mixed Reality and Augmented Reality. I'm open to projects and opportunities in any of the afformentioned areas.
 
