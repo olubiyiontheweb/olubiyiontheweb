@@ -2,7 +2,7 @@
 
 I'm sure you're already wondering what I do. So here is a summary.
 
-I'm a full-stack developer and software engineer. I'm passionate about building quality applications for the web and mobile devices. Do well to check out some of my pinned repositories.
+I'm a full-stack developer, backend developer and software engineer. I'm passionate about building data-driven applications for the web and mobile devices. Do well to check out some of my pinned repositories.
 
 I'm open to projects and opportunities in any of the aforementioned areas.
 
