@@ -1,4 +1,4 @@
-### Hi there, I'm Oluwatosin Olubiyi 👋
+### Hi there 👋
 
 I'm sure you're already wondering what I do. So here is a summary.
 
